@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## My projects:
+
+<a target="_blank" href="https://github.com/Goddartable/qa_guru_21_DIPLOM_UI">U̲I̲ ̲а̲в̲т̲о̲т̲е̲с̲т̲ы̲</a>
+<a target="_blank" href="https://github.com/Goddartable/qa_guru_21_DIPLOM_API">A̲P̲I̲ ̲а̲в̲т̲о̲т̲е̲с̲т̲ы̲</a>
+<a target="_blank" href="https://github.com/Goddartable/qa_guru_21_DIPLOM_MOBILE">M̲O̲B̲I̲L̲E̲ ̲а̲в̲т̲о̲т̲е̲с̲т̲ы̲</a>
+
+
+
 <!--
 **Goddartable/Goddartable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
