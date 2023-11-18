@@ -13,6 +13,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Goddartable&repo=qa_guru_21_DIPLOM_MOBILE)](https://github.com/Goddartable/qa_guru_21_DIPLOM_MOBILE)
 
+### Моя статистика:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Goddartable&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Goddartable&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Goddartable&theme=solarized_dark)
 
 <!--
 **Goddartable/Goddartable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
