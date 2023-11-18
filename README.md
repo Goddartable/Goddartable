@@ -1,11 +1,17 @@
 ### Hi there 👋
 
-## My projects:
+## My projects
 
-<a target="_blank" href="https://github.com/Goddartable/qa_guru_21_DIPLOM_UI">U̲I̲ ̲а̲в̲т̲о̲т̲е̲с̲т̲ы̲</a>
-<a target="_blank" href="https://github.com/Goddartable/qa_guru_21_DIPLOM_API">A̲P̲I̲ ̲а̲в̲т̲о̲т̲е̲с̲т̲ы̲</a>
-<a target="_blank" href="https://github.com/Goddartable/qa_guru_21_DIPLOM_MOBILE">M̲O̲B̲I̲L̲E̲ ̲а̲в̲т̲о̲т̲е̲с̲т̲ы̲</a>
+### Проект по автоматизации тестовых сценариев для сайта [РСХБ в цифре](https://rshbdigital.ru/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Goddartable&repo=qa_guru_21_DIPLOM_UI)](https://github.com/Goddartable/qa_guru_21_DIPLOM_UI)
 
+### Проект по автоматизации API методов для сайта [REQRES](https://reqres.in/)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Goddartable&repo=qa_guru_21_DIPLOM_API)](https://github.com/Goddartable/qa_guru_21_DIPLOM_API)
+
+### Проект по автоматизации mobile тестов для приложения [Wikipedia](https://ru.wikipedia.org/)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Goddartable&repo=qa_guru_21_DIPLOM_MOBILE)](https://github.com/Goddartable/qa_guru_21_DIPLOM_MOBILE)
 
 
 <!--
